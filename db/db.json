@@ -91,48 +91,17 @@
       "id": 1
     },
     {
-      "nome": "Thiago Yuji",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 4
-    },
-    {
-      "nome": "Ken",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 5
-    },
-    {
-      "nome": "Lucas",
+      "nome": "Ju",
       "carne": "Alcatra",
       "pao": "Italiano Branco",
       "opcionais": [
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 6
-    },
-    {
-      "nome": "Gloria",
-      "carne": "Picanha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Cheddar",
+        "Bacon",
+        "Salame",
         "Tomate",
         "Pepino"
       ],
-      "status": "Solicitado",
-      "id": 7
+      "status": "Em produção",
+      "id": 2
     }
   ]
 }
